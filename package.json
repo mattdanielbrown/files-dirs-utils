@@ -1,0 +1,19 @@
+{
+  "name": "files-dirs-utils",
+  "version": "0.0.1",
+  "description": "Basic, no-dependency file system utilities for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdanielbrown/files-dirs-utils.git"
+  },
+  "author": "Matt Daniel Brown <mattdbrown@protonmail.com> (https://mattdbrown.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattdanielbrown/files-dirs-utils/issues"
+  },
+  "homepage": "https://github.com/mattdanielbrown/files-dirs-utils#readme"
+}
